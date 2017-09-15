@@ -100,7 +100,7 @@ https://github.com/xkdog/DPTrust
 姓名 | 职称 | 工作单位 | 邮箱
 ----|---|-----|------
 [汪新建](http://zfxy.nankai.edu.cn/wangxinjian) | 教授  | [南开大学周恩来政府管理学院](http://zfxy.nankai.edu.cn/faculty/psychology)  | wangxj@nankai.edu.cn
-[吕小康](http://zfxy.nankai.edu.cn/xk) | 副教授 | [南开大学周恩来政府管理学院](http://zfxy.nankai.edu.cn/faculty/psychology)  | xkdog@126.com; luxk@nankai.edu.cn
+[吕小康](http://zfxy.nankai.edu.cn/xk) | 副教授 | [南开大学周恩来政府管理学院](http://zfxy.nankai.edu.cn/faculty/psychology)  | xkdog@126.com
 
 
 真诚欢迎您加入我们的研究团队！
