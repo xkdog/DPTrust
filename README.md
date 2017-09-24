@@ -24,9 +24,8 @@
 
 1. 患方量表: https://www.wjx.cn/jq/16482738.aspx
 1. 患方问卷: https://www.wjx.cn/jq/13738429.aspx
-1. 医方量表: 待确定
-1. 医方问卷: 待确定
-
+1. 医方量表: https://www.wjx.cn/jq/16580266.aspx
+1. 医方问卷: https://www.wjx.cn/jq/15816010.aspx
 
 ## 研究成果
 
