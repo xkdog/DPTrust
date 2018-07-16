@@ -87,7 +87,6 @@
 
 https://github.com/xkdog/DPTrust
 
-欲参加我们的组会，请关注此[链接](https://github.com/xkdog/DPTrust/blob/master/seminars)。
 
 
 课题联系人：
